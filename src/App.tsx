@@ -1,5 +1,6 @@
 import Header from "./Components/Header"
 import Hero from "./Components/Hero"
+import ShowCase from "./Components/ShowCase"
 const App = () => {
   
   return (
@@ -7,6 +8,7 @@ const App = () => {
  
   <Header/>
   <Hero/>
+  <ShowCase/>
 
 
   </div>
