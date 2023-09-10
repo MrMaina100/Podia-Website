@@ -1,6 +1,9 @@
 import Header from "./Components/Header"
 import Hero from "./Components/Hero"
 import ShowCase from "./Components/ShowCase"
+import OnlineCourses from "./Components/ProductsSellSection/OnlineCourses"
+import DigitalProducts from "./Components/ProductsSellSection/DigitalProducts"
+import Coaching from "./Components/ProductsSellSection/Coaching"
 const App = () => {
   
   return (
@@ -9,6 +12,9 @@ const App = () => {
   <Header/>
   <Hero/>
   <ShowCase/>
+  <OnlineCourses/>
+  <DigitalProducts/>
+  <Coaching/>
 
 
   </div>
