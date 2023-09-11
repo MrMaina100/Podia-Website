@@ -5,6 +5,7 @@ import OnlineCourses from "./Components/ProductsSellSection/OnlineCourses"
 import DigitalProducts from "./Components/ProductsSellSection/DigitalProducts"
 import Coaching from "./Components/ProductsSellSection/Coaching"
 import CTA from "./Components/CTA"
+import Footer from "./Components/Footer"
 const App = () => {
   
   return (
@@ -19,6 +20,7 @@ const App = () => {
    <DigitalProducts/>
    <Coaching/>
    <CTA/>
+   <Footer/>
 
   </div>
  
