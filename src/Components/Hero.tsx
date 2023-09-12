@@ -2,7 +2,7 @@ import heroImage from '../Images/digital_products-hero.png'
 
 const Hero = () => {
   return (
-    <div className="container mx-auto max-w-[1400px] pt-20 px-6 md:px-0">
+    <div className="container mx-auto max-w-[1400px] md:pt-20 px-6 md:px-0">
       <div className="flex flex-col-reverse justify-between items-start space-y-4 md:flex-row md:space-y-0 md:space-x-2">
          {/* first div */}
 
